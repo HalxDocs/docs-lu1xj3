@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-i3phdp.siaranbola.me/sitemap.xml
